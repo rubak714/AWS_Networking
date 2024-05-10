@@ -23,7 +23,8 @@ AWS Networking steps which aims to network within the AWS Cloud
 
 # AWS Networking Services
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/c50d0ba5-8339-4f8d-a8e1-3312ace2a292" alt="Description of image" width="500" height="300">
-## AWS network services by group
+
+# AWS network services by group
 -- Network foundations: Amazon VPC, AWS Transit Gateway, AWS PrivateLink
 
 -- Hybrid connectivity: AWS Direct Connect, AWS Site-to-Site VPN, AWS Client VPN, AWS Cloud WAN
@@ -87,7 +88,7 @@ AWS edge networking services sit at the AWS global edge locations and are config
 # Application Networking
 On AWS, you can improve your application's network architecture with services that provide your traditional and modern applications improved security, availability, performance, and efficient monitoring capabilities. Along with the edge networking services, AWS also offers application networking services to ensure scalability, high availability, improved performance, and security globally. 
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/59be9c31-e3e0-44e4-922e-b4e8de5cf14b" alt="Description of image" width="300" height="300">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/59be9c31-e3e0-44e4-922e-b4e8de5cf14b" alt="Description of image" width="500" height="300">
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/224c0023-d0b5-4c66-96ec-bf142b06891b" alt="Description of image" width="300" height="300">
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/738c4a78-b216-45ad-90ff-4a5a390555fd" alt="Description of image" width="300" height="300">
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/4664365d-cdf5-47d6-86a2-546364fc25df" alt="Description of image" width="300" height="300">
