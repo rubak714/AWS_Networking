@@ -53,12 +53,12 @@ The well-architected framework provides a consistent approach for customers and 
 
 # Networking and Content Delivery:
 AWS provides networking and content delivery services to run my network and application workloads. These services help to optimize my communications and data transfer with the highest level of security, reliability, and performance.
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/5d2ce645-7597-44c1-9a0b-7cf6eaa80c57" alt="Description of image" width="500" height="300">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/5d2ce645-7597-44c1-9a0b-7cf6eaa80c57" alt="Description of image" width="500" height="500">
 
 # Network Foundation Options
 https://aws.amazon.com/products/networking/networking-foundations/?nc=sn&loc=2&dn=4
 The AWS network foundation options support the foundational building blocks of my design, environment, network, and workloads to ensure that my meet your business goals.
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/e552e8c5-264e-476d-a6d5-a8f99180b84f" alt="Description of image" width="500" height="300">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/e552e8c5-264e-476d-a6d5-a8f99180b84f" alt="Description of image" width="500" height="500">
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/3fbca194-d4c3-4609-887c-1dd70a200ec8" alt="Description of image" width="300" height="300">
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/bc7f4c03-1a07-4476-b9c7-8e3ccf0a1931" alt="Description of image" width="300" height="300">
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/1ce2f530-ef9a-40b5-97f3-16a4844db884" alt="Description of image" width="300" height="300">
