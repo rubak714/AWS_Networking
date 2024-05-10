@@ -87,12 +87,26 @@ AWS edge networking services sit at the AWS global edge locations and are config
 # Application Networking
 On AWS, you can improve your application's network architecture with services that provide your traditional and modern applications improved security, availability, performance, and efficient monitoring capabilities. Along with the edge networking services, AWS also offers application networking services to ensure scalability, high availability, improved performance, and security globally. 
 
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/59be9c31-e3e0-44e4-922e-b4e8de5cf14b" alt="Description of image" width="500" height="300">
+
+
 ![18](https://github.com/rubak714/AWS_Networking/assets/101013219/59be9c31-e3e0-44e4-922e-b4e8de5cf14b)
 ![19](https://github.com/rubak714/AWS_Networking/assets/101013219/224c0023-d0b5-4c66-96ec-bf142b06891b)
 ![20](https://github.com/rubak714/AWS_Networking/assets/101013219/738c4a78-b216-45ad-90ff-4a5a390555fd)
 ![21](https://github.com/rubak714/AWS_Networking/assets/101013219/4664365d-cdf5-47d6-86a2-546364fc25df)
 Elastic Load Balancing, AWS Global Accelerator, Amazon API Gateway, AWS App Mesh, and AWS Cloud Map work together to solve your application networking needs.
 
+# Network Security
+As you build and manage your network on AWS, there are multiple network and application protection services, resources, and tools to:
+
+* Protect your environment.
+* Inspect and filter traffic to prevent unauthorized access.
+* Enforce fine-grained security policies at every network control point across your organization.
+* Meet compliance requirements.
+* 
+  Network security helps to prevent attacks that could degrade your network's responsiveness or expose valuable data to unintended individuals. The AWS services grouped as network security, when properly configured, can help maintain your network's high availability and responsiveness. These network security services can be configured for always-on detection and automatic inline threat mitigations to maximize availability and application responsiveness. To learn more about the AWS networking service options, choose each of the four numbered markers. 
+
+![22](https://github.com/rubak714/AWS_Networking/assets/101013219/4b5e582e-bf02-4427-989f-69266d5237eb)
 
 
 
