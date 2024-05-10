@@ -66,8 +66,6 @@ The AWS network foundation options support the foundational building blocks of m
 
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/3fbca194-d4c3-4609-887c-1dd70a200ec8" alt="Description of image" width="250" height="250">
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/bc7f4c03-1a07-4476-b9c7-8e3ccf0a1931" alt="Description of image" width="250" height="250">
-
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/1ce2f530-ef9a-40b5-97f3-16a4844db884" alt="Description of image" width="250" height="250">
 
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/4323bd73-fd3e-48f2-96e7-ef1829eb8d37" alt="Description of image" width="250" height="250">
@@ -83,8 +81,6 @@ AWS provides services and hybrid connectivity solutions to link your on premises
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/eba2d0db-2006-44af-8d95-80c2bbb74836" alt="Description of image" width="250" height="250">
 
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/bc49d5b1-4adf-48fa-b141-381efa300e6d" alt="Description of image" width="250" height="250">
-
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/bc7f4c03-1a07-4476-b9c7-8e3ccf0a1931" alt="Description of image" width="250" height="250">
 
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/feba71da-4505-499e-a251-e7a3249fa06e" alt="Description of image" width="250" height="250">
 
