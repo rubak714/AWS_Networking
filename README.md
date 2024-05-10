@@ -56,7 +56,7 @@ The well-architected framework provides a consistent approach for customers and 
 # Networking and Content Delivery:
 AWS provides networking and content delivery services to run my network and application workloads. These services help to optimize my communications and data transfer with the highest level of security, reliability, and performance.
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/5d2ce645-7597-44c1-9a0b-7cf6eaa80c57" alt="Description of image" width="500" height="500">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/5d2ce645-7597-44c1-9a0b-7cf6eaa80c57" alt="Description of image" width="500" height="300">
 
 # Network Foundation Options
 https://aws.amazon.com/products/networking/networking-foundations/?nc=sn&loc=2&dn=4
@@ -64,13 +64,13 @@ The AWS network foundation options support the foundational building blocks of m
 
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/e552e8c5-264e-476d-a6d5-a8f99180b84f" alt="Description of image" width="500" height="300">
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/3fbca194-d4c3-4609-887c-1dd70a200ec8" alt="Description of image" width="100" height="100">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/3fbca194-d4c3-4609-887c-1dd70a200ec8" alt="Description of image" width="250" height="250">
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/bc7f4c03-1a07-4476-b9c7-8e3ccf0a1931" alt="Description of image" width="100" height="100">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/bc7f4c03-1a07-4476-b9c7-8e3ccf0a1931" alt="Description of image" width="250" height="250">
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/1ce2f530-ef9a-40b5-97f3-16a4844db884" alt="Description of image" width="100" height="100">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/1ce2f530-ef9a-40b5-97f3-16a4844db884" alt="Description of image" width="250" height="250">
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/4323bd73-fd3e-48f2-96e7-ef1829eb8d37" alt="Description of image" width="100" height="100">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/4323bd73-fd3e-48f2-96e7-ef1829eb8d37" alt="Description of image" width="250" height="250">
 
 
 "Your Amazon VPC is not your typical data center" by Julie Elkins
@@ -94,13 +94,13 @@ AWS provides services and hybrid connectivity solutions to link your on premises
 On AWS, edge networking services securely transmit your user-facing data with improved latency globally. After using AWS edge networking services, your traffic moves off the internet and behind the AWS global network. Network edge computing removes the need of reaching back to your data centers or the cloud, to the edge of the network. This interconnects your network and provides a path for the exchange of information quicker.
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/5afec076-8856-41fd-a029-2a8e1195872f" alt="Description of image" width="500" height="300">
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/fc36f726-c2f3-4f6f-b3ff-c9110eee809e" alt="Description of image" width="100" height="100">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/fc36f726-c2f3-4f6f-b3ff-c9110eee809e" alt="Description of image" width="250" height="250">
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/bc7f4c03-1a07-4476-b9c7-8e3ccf0a1931" alt="Description of image" width="100" height="100">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/bc7f4c03-1a07-4476-b9c7-8e3ccf0a1931" alt="Description of image" width="250" height="250">
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/21fa13db-9763-455f-9649-a4e16d712680" alt="Description of image" width="100" height="100">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/21fa13db-9763-455f-9649-a4e16d712680" alt="Description of image" width="250" height="250">
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/b33067ba-8165-47ab-b813-ec34584cb403" alt="Description of image" width="100" height="100">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/b33067ba-8165-47ab-b813-ec34584cb403" alt="Description of image" width="250" height="250">
 
 AWS edge networking services sit at the AWS global edge locations and are configured to connect and deliver data with single-digit millisecond AWS network latency.
 
@@ -109,11 +109,11 @@ On AWS, you can improve your application's network architecture with services th
 
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/59be9c31-e3e0-44e4-922e-b4e8de5cf14b" alt="Description of image" width="500" height="300">
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/224c0023-d0b5-4c66-96ec-bf142b06891b" alt="Description of image" width="100" height="100">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/224c0023-d0b5-4c66-96ec-bf142b06891b" alt="Description of image" width="250" height="250">
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/738c4a78-b216-45ad-90ff-4a5a390555fd" alt="Description of image" width="100" height="100">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/738c4a78-b216-45ad-90ff-4a5a390555fd" alt="Description of image" width="250" height="250">
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/4664365d-cdf5-47d6-86a2-546364fc25df" alt="Description of image" width="100" height="200">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/4664365d-cdf5-47d6-86a2-546364fc25df" alt="Description of image" width="250" height="250">
 
 Elastic Load Balancing, AWS Global Accelerator, Amazon API Gateway, AWS App Mesh, and AWS Cloud Map work together to solve your application networking needs.
 
