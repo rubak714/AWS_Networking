@@ -122,6 +122,9 @@ As you build and manage your network on AWS, there are multiple network and appl
   Network security helps to prevent attacks that could degrade your network's responsiveness or expose valuable data to unintended individuals. The AWS services grouped as network security, when properly configured, can help maintain your network's high availability and responsiveness. These network security services can be configured for always-on detection and automatic inline threat mitigations to maximize availability and application responsiveness. To learn more about the AWS networking service options, choose each of the four numbered markers. 
 
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/4b5e582e-bf02-4427-989f-69266d5237eb" alt="Description of image" width="700">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/23ad9ac2-2a2a-4dbb-bbb1-7c7c14266992" alt="Description of image" width="700">
+
+AWS provides your network and application security teams with services that address their particular protection needs and compliance requirements. AWS network and application protection services add fine-grained protections at the host-level, network-level, and application-level boundaries. 
 
 
 
