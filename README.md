@@ -23,7 +23,7 @@ AWS Networking steps which aims to network within the AWS Cloud
 
 # AWS Networking Services
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/c50d0ba5-8339-4f8d-a8e1-3312ace2a292" alt="Description of image" width="500" height="300">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/c50d0ba5-8339-4f8d-a8e1-3312ace2a292" alt="Description of image" width="500" >
 
 # AWS network services by group
 -- Network foundations: Amazon VPC, AWS Transit Gateway, AWS PrivateLink
@@ -51,18 +51,18 @@ The well-architected framework provides a consistent approach for customers and 
 
 # Shared responsibility model
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/c529310e-aa0c-498e-a62d-c8282799a654" alt="Description of image" width="500" height="300">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/c529310e-aa0c-498e-a62d-c8282799a654" alt="Description of image" width="500">
 
 # Networking and Content Delivery:
 AWS provides networking and content delivery services to run my network and application workloads. These services help to optimize my communications and data transfer with the highest level of security, reliability, and performance.
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/5d2ce645-7597-44c1-9a0b-7cf6eaa80c57" alt="Description of image" width="700" height="600">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/5d2ce645-7597-44c1-9a0b-7cf6eaa80c57" alt="Description of image" width="700" >
 
 # Network Foundation Options
 https://aws.amazon.com/products/networking/networking-foundations/?nc=sn&loc=2&dn=4
 The AWS network foundation options support the foundational building blocks of my design, environment, network, and workloads to ensure that my meet your business goals.
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/e552e8c5-264e-476d-a6d5-a8f99180b84f" alt="Description of image" width="700" height="600">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/e552e8c5-264e-476d-a6d5-a8f99180b84f" alt="Description of image" width="700" >
 
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/3fbca194-d4c3-4609-887c-1dd70a200ec8" alt="Description of image" width="250" height="250">
 
@@ -88,7 +88,7 @@ AWS provides services and hybrid connectivity solutions to link your on premises
 
 # Edge Networking
 On AWS, edge networking services securely transmit your user-facing data with improved latency globally. After using AWS edge networking services, your traffic moves off the internet and behind the AWS global network. Network edge computing removes the need of reaching back to your data centers or the cloud, to the edge of the network. This interconnects your network and provides a path for the exchange of information quicker.
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/5afec076-8856-41fd-a029-2a8e1195872f" alt="Description of image" width="700" height="600">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/5afec076-8856-41fd-a029-2a8e1195872f" alt="Description of image" width="700" >
 
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/fc36f726-c2f3-4f6f-b3ff-c9110eee809e" alt="Description of image" width="250" height="250">
 
@@ -101,7 +101,7 @@ AWS edge networking services sit at the AWS global edge locations and are config
 # Application Networking
 On AWS, you can improve your application's network architecture with services that provide your traditional and modern applications improved security, availability, performance, and efficient monitoring capabilities. Along with the edge networking services, AWS also offers application networking services to ensure scalability, high availability, improved performance, and security globally. 
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/59be9c31-e3e0-44e4-922e-b4e8de5cf14b" alt="Description of image" width="700" height="600">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/59be9c31-e3e0-44e4-922e-b4e8de5cf14b" alt="Description of image" width="700" >
 
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/224c0023-d0b5-4c66-96ec-bf142b06891b" alt="Description of image" width="250" height="250">
 
@@ -121,7 +121,7 @@ As you build and manage your network on AWS, there are multiple network and appl
 * 
   Network security helps to prevent attacks that could degrade your network's responsiveness or expose valuable data to unintended individuals. The AWS services grouped as network security, when properly configured, can help maintain your network's high availability and responsiveness. These network security services can be configured for always-on detection and automatic inline threat mitigations to maximize availability and application responsiveness. To learn more about the AWS networking service options, choose each of the four numbered markers. 
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/4b5e582e-bf02-4427-989f-69266d5237eb" alt="Description of image" width="700" height="600">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/4b5e582e-bf02-4427-989f-69266d5237eb" alt="Description of image" width="700">
 
 
 
