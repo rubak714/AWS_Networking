@@ -1,4 +1,4 @@
-# AWS_Networking
+# AWS Networking
 AWS Networking steps which aims to network within the AWS Cloud
 
 # AWS Networking Basics
@@ -80,15 +80,15 @@ If we explore a comparison between Amazon VPC and an on-premises data center, we
 # Hybrid Connectivity
 AWS provides services and hybrid connectivity solutions to link your on premises and AWS networks. This supports a wide range of hybrid architectures and use cases.
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/eba2d0db-2006-44af-8d95-80c2bbb74836" alt="Description of image" width="500" height="300">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/eba2d0db-2006-44af-8d95-80c2bbb74836" alt="Description of image" width="250" height="250">
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/bc49d5b1-4adf-48fa-b141-381efa300e6d" alt="Description of image" width="100" height="100">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/bc49d5b1-4adf-48fa-b141-381efa300e6d" alt="Description of image" width="250" height="250">
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/bc7f4c03-1a07-4476-b9c7-8e3ccf0a1931" alt="Description of image" width="100" height="100">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/bc7f4c03-1a07-4476-b9c7-8e3ccf0a1931" alt="Description of image" width="250" height="250">
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/feba71da-4505-499e-a251-e7a3249fa06e" alt="Description of image" width="100" height="100">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/feba71da-4505-499e-a251-e7a3249fa06e" alt="Description of image" width="250" height="250">
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/278a9fc3-ecd0-4ffc-a9a2-6f0a534e3ae6" alt="Description of image" width="100" height="100">
+<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/278a9fc3-ecd0-4ffc-a9a2-6f0a534e3ae6" alt="Description of image" width="250" height="250">
 
 # Edge Networking
 On AWS, edge networking services securely transmit your user-facing data with improved latency globally. After using AWS edge networking services, your traffic moves off the internet and behind the AWS global network. Network edge computing removes the need of reaching back to your data centers or the cloud, to the edge of the network. This interconnects your network and provides a path for the exchange of information quicker.
