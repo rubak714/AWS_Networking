@@ -77,13 +77,13 @@ AWS provides services and hybrid connectivity solutions to link your on premises
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/278a9fc3-ecd0-4ffc-a9a2-6f0a534e3ae6" alt="Description of image" width="500" height="300">
 
 # Edge Networking
-On AWS, edge networking services securely transmit your user-facing data with improved latency globally. When you use the AWS edge networking services, your traffic moves off the internet and behind the AWS global network. Network edge computing removes the need of reaching back to your data centers or the cloud, to the edge of the network. This interconnects your network and provides a path for the exchange of information quicker.
-AWS edge networking services sit at the AWS global edge locations and are configured to connect and deliver data with single-digit millisecond AWS network latency.
+On AWS, edge networking services securely transmit your user-facing data with improved latency globally. After using AWS edge networking services, your traffic moves off the internet and behind the AWS global network. Network edge computing removes the need of reaching back to your data centers or the cloud, to the edge of the network. This interconnects your network and provides a path for the exchange of information quicker.
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/5afec076-8856-41fd-a029-2a8e1195872f" alt="Description of image" width="500" height="300">
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/fc36f726-c2f3-4f6f-b3ff-c9110eee809e" alt="Description of image" width="500" height="300">
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/bc7f4c03-1a07-4476-b9c7-8e3ccf0a1931" alt="Description of image" width="500" height="300">
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/21fa13db-9763-455f-9649-a4e16d712680" alt="Description of image" width="500" height="300">
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/b33067ba-8165-47ab-b813-ec34584cb403" alt="Description of image" width="500" height="300">
+AWS edge networking services sit at the AWS global edge locations and are configured to connect and deliver data with single-digit millisecond AWS network latency.
 
 # Application Networking
 On AWS, you can improve your application's network architecture with services that provide your traditional and modern applications improved security, availability, performance, and efficient monitoring capabilities. Along with the edge networking services, AWS also offers application networking services to ensure scalability, high availability, improved performance, and security globally. 
