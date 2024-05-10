@@ -55,6 +55,7 @@ The well-architected framework provides a consistent approach for customers and 
 
 # Networking and Content Delivery:
 AWS provides networking and content delivery services to run my network and application workloads. These services help to optimize my communications and data transfer with the highest level of security, reliability, and performance.
+![3](https://github.com/rubak714/AWS_Networking/assets/101013219/452a5f30-db91-4371-bd5e-b76f3c2a03ab)
 
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/5d2ce645-7597-44c1-9a0b-7cf6eaa80c57" alt="Description of image" width="500" height="300">
 
@@ -63,6 +64,8 @@ https://aws.amazon.com/products/networking/networking-foundations/?nc=sn&loc=2&d
 The AWS network foundation options support the foundational building blocks of my design, environment, network, and workloads to ensure that my meet your business goals.
 
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/e552e8c5-264e-476d-a6d5-a8f99180b84f" alt="Description of image" width="500" height="300">
+
+![4](https://github.com/rubak714/AWS_Networking/assets/101013219/8d8ec327-9bb4-4556-b55e-9281c5681a4d)
 
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/3fbca194-d4c3-4609-887c-1dd70a200ec8" alt="Description of image" width="250" height="250">
 
@@ -90,6 +93,9 @@ AWS provides services and hybrid connectivity solutions to link your on premises
 On AWS, edge networking services securely transmit your user-facing data with improved latency globally. After using AWS edge networking services, your traffic moves off the internet and behind the AWS global network. Network edge computing removes the need of reaching back to your data centers or the cloud, to the edge of the network. This interconnects your network and provides a path for the exchange of information quicker.
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/5afec076-8856-41fd-a029-2a8e1195872f" alt="Description of image" width="500" height="300">
 
+![13](https://github.com/rubak714/AWS_Networking/assets/101013219/0ffe5b3a-43bd-4ec4-a5b2-b978a95c3e97)
+
+
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/fc36f726-c2f3-4f6f-b3ff-c9110eee809e" alt="Description of image" width="250" height="250">
 
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/bc7f4c03-1a07-4476-b9c7-8e3ccf0a1931" alt="Description of image" width="250" height="250">
@@ -102,6 +108,9 @@ AWS edge networking services sit at the AWS global edge locations and are config
 On AWS, you can improve your application's network architecture with services that provide your traditional and modern applications improved security, availability, performance, and efficient monitoring capabilities. Along with the edge networking services, AWS also offers application networking services to ensure scalability, high availability, improved performance, and security globally. 
 
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/59be9c31-e3e0-44e4-922e-b4e8de5cf14b" alt="Description of image" width="500" height="300">
+
+![18](https://github.com/rubak714/AWS_Networking/assets/101013219/5e90ca4a-3759-4b62-8643-ab373621b044)
+
 
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/224c0023-d0b5-4c66-96ec-bf142b06891b" alt="Description of image" width="250" height="250">
 
