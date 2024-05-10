@@ -96,8 +96,6 @@ On AWS, edge networking services securely transmit your user-facing data with im
 
 <img src="https://github.com/rubak714/AWS_Networking/assets/101013219/21fa13db-9763-455f-9649-a4e16d712680" alt="Description of image" width="250" height="250">
 
-<img src="https://github.com/rubak714/AWS_Networking/assets/101013219/b33067ba-8165-47ab-b813-ec34584cb403" alt="Description of image" width="250" height="250">
-
 AWS edge networking services sit at the AWS global edge locations and are configured to connect and deliver data with single-digit millisecond AWS network latency.
 
 # Application Networking
